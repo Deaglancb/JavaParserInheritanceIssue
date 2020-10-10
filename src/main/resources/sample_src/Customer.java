@@ -1,1 +1,1 @@
-public class Customer{}
+public class Customer{ public Customer(){} }
